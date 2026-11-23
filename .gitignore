@@ -6,6 +6,7 @@ __pycache__/
 venv/
 build/
 dist/
+samples/
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/
@@ -48,3 +49,5 @@ desktop.ini
 .env
 .env.*
 !.env.example
+
+samples/
